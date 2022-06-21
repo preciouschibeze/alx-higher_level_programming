@@ -10,4 +10,5 @@ def magic_calculation(a, b):
         except Exception:
             i = a + b
             break
-    return 
+    return i
+
